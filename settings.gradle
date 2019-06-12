@@ -1,1 +1,1 @@
-include ':app', ':my_dialog'
+include ':my_dialog'
